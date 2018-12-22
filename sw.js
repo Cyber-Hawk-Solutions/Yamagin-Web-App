@@ -13,7 +13,7 @@ var filesToCache = [
  '/static-assets/js/home.js',
  'static-assets/js/posts.js',
  '/static-assets/css/new-base.css',
- '/',
+ '/index.html',
  '404.html'
 ];
 
